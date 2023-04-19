@@ -1,6 +1,6 @@
 # Shopping-trend-analysis
 ## Description
-Purpose of this repository is to cluster the customers based on their shopping patterns. Algorithm used for clustering in this case is K-means clustering. Technique used to identify customer's shopping pattern is RFM analysis. Regression model is made o attempt and predict the price, metrics are: Mean absolute error and r2 score.
+Purpose of this repository is to cluster the customers based on their shopping patterns. Algorithm used for clustering in this case is K-means clustering. Technique used to identify customer's shopping pattern is RFM analysis. Regression model is made to predict the price, metrics used are: Mean absolute error and r2 score.
 ## Dataset
     1. invoice_no: Invoice number. Nominal. A combination of the letter 'I' and a 6-digit integer uniquely assigned to each operation.
     2. customer_id: Customer number. Nominal. A combination of the letter 'C' and a 6-digit integer uniquely assigned to each operation.
